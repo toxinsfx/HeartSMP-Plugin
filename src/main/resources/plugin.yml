@@ -1,0 +1,39 @@
+name: HeartSMP-Core
+version: '1.6'
+main: me.nottoxinsfx.heartsmp.Core
+description: HeartSMP Core plugin
+api-version: '1.20'
+
+commands:
+  energy:
+    description: Check your or someones else energy!
+  setenergy:
+    description: Set yours or someones else energy!
+    permission: heartsmp.setenergy
+  givereviveitem:
+    description: Give yourself revive item! (test)
+    permission: heartsmp.giveitem
+  givetraderitem:
+    description: Give yourself heart trader! (test)
+    permission: heartsmp.giveitem
+  givestrengthheart:
+    description: Give yourself strength heart (test)
+    permission: heartsmp.giveitem
+  givespeedheart:
+    description: Give yourself speed heart (test)
+    permission: heartsmp.giveitem
+  giveenergyheart:
+    description: Give yourself energy heart (test)
+    permission: heartsmp.giveitem
+  givelifeheart:
+    description: Give yourself life heart (test)
+    permission: heartsmp.giveitem
+  givewaterheart:
+    description: Give yourself water heart (test)
+    permission: heartsmp.giveitem
+  givefireheart:
+    description: Give yourself fire heart (test)
+    permission: heartsmp.giveitem
+  checkheart:
+    description: Check someones heart
+    permission: heartsmp.checkheart
