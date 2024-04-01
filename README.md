@@ -16,7 +16,7 @@ I leaked it because the owner (discord: pandacd. id: 1168696814250237995) banned
 
 #### How much percent of the plugin is made with ChatGPT?
 
-Around 85%.
+Around 100%.
 
 ## Features
 
